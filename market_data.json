@@ -1,0 +1,377 @@
+{
+  "categories": {
+    "Wellness": {
+      "subcategories": {
+        "Body": [
+          {
+            "name": "Shea Moisture African Black Soap Body Wash 13oz",
+            "price": "$15.99",
+            "production_rate": "90%"
+          },
+          {
+            "name": "African Raw Shea Butter White 8oz",
+            "price": "$8.99",
+            "production_rate": "84%"
+          },
+          {
+            "name": "Authentic Raw African Black Soap 8oz",
+            "price": "$10.99",
+            "production_rate": "78%"
+          },
+          {
+            "name": "Dudu Osun Black Soap 150g",
+            "price": "$6.99",
+            "production_rate": "95%"
+          },
+          {
+            "name": "Taha Liquid Black Soap 13 Oz",
+            "price": "$13.99",
+            "production_rate": "92%"
+          },
+          {
+            "name": "Shea Moisture African Black Soap Facial Wash 4 Oz",
+            "price": "$15.99",
+            "production_rate": "87%"
+          },
+          {
+            "name": "Shea Moisture African Black Soap Balancing Moisturizer 2 Oz",
+            "price": "$19.99",
+            "production_rate": "97%"
+          },
+          {
+            "name": "Shea Moisture African Black Soap Facial Mask 4oz",
+            "price": "$21.99",
+            "production_rate": "75%"
+          },
+          {
+            "name": "Okay Black Soap Shampoo 12 Oz",
+            "price": "$11.99",
+            "production_rate": "99%"
+          },
+          {
+            "name": "Ambi Black Soap Bar 3.5 Oz",
+            "price": "$5.99",
+            "production_rate": "90%"
+          },
+          {
+            "name": "Aboniki Balm 25G (Aboniki Ointment)",
+            "price": "$7.99",
+            "production_rate": "77%"
+          },
+          {
+            "name": "Robb Original Balm 25g (Rubb Ointment)",
+            "price": "$6.99",
+            "production_rate": "92%"
+          },
+          {
+            "name": "African Raw Shea Butter Yellow 4oz",
+            "price": "$4.99",
+            "production_rate": "88%"
+          },
+          {
+            "name": "African Raw Shea Butter Yellow 1LB",
+            "price": "$10.99",
+            "production_rate": "67%"
+          },
+          {
+            "name": "African Raw Shea Butter Yellow 8oz",
+            "price": "$8.99",
+            "production_rate": "97%"
+          }
+        ],
+        "Bitter": [
+          {
+            "name": "Amenazel Soursop Bitters 16oz",
+            "price": "$42.99",
+            "production_rate": "94%"
+          },
+          {
+            "name": "Orijin Bitters 750ML",
+            "price": "$38.99",
+            "production_rate": "89%"
+          },
+          {
+            "name": "Amenazel Power Bitters 16oz",
+            "price": "$39.99",
+            "production_rate": "96%"
+          },
+          {
+            "name": "Alomo Bitters 750ML",
+            "price": "$39.99",
+            "production_rate": "82%"
+          },
+          {
+            "name": "Alomo Bitters 200ML",
+            "price": "$11.99",
+            "production_rate": "72%"
+          },
+          {
+            "name": "Orijin Bitters 200ML",
+            "price": "$11.99",
+            "production_rate": "84%"
+          },
+          {
+            "name": "Amenazel Moringa Bitters 16oz",
+            "price": "$38.99",
+            "production_rate": "88%"
+          },
+          {
+            "name": "Living Bitters 200ML",
+            "price": "$17.99",
+            "production_rate": "91%"
+          },
+          {
+            "name": "Karafi Bitters 1L",
+            "price": "$18.99",
+            "production_rate": "85%"
+          },
+          {
+            "name": "Amenazel Black Seed Bitters 16oz",
+            "price": "$37.99",
+            "production_rate": "66%"
+          },
+          {
+            "name": "Alafia Bitters 300ML",
+            "price": "$15.99",
+            "production_rate": "79%"
+          }
+        ],
+        "Food": [
+          {
+            "name": "Prekese (Effu/Uhiokirihio/Aidan Fruit) 4-5pieces per bag",
+            "price": "$6.99",
+            "production_rate": "84%"
+          },
+          {
+            "name": "Fresh Igbo Kola Nut 8oz",
+            "price": "$7.99",
+            "production_rate": "79%"
+          },
+          {
+            "name": "African Bitter Kola 7oz",
+            "price": "$13.99",
+            "production_rate": "90%"
+          },
+          {
+            "name": "Bitter Kola Drink 12oz (Pack of 6)",
+            "price": "$39.99",
+            "production_rate": "86%"
+          },
+          {
+            "name": "Durol Tonic 330ML",
+            "price": "$24.99",
+            "production_rate": "68%"
+          },
+          {
+            "name": "Hausa Kola Nut 8oz",
+            "price": "$10.99",
+            "production_rate": "95%"
+          },
+          {
+            "name": "Benjamins Rose Water 4oz",
+            "price": "$3.99",
+            "production_rate": "74%"
+          },
+          {
+            "name": "Farana Attote Ivory Coast 500ML",
+            "price": "$49.99",
+            "production_rate": "67%"
+          },
+          {
+            "name": "5-Hour Energy (Extra Energy) 1.93oz",
+            "price": "$2.99",
+            "production_rate": "91%"
+          },
+          {
+            "name": "Laziza Ginger Paste 330g",
+            "price": "$4.99",
+            "production_rate": "94%"
+          },
+          {
+            "name": "Laziza Ginger Paste 26oz",
+            "price": "$13.99",
+            "production_rate": "83%"
+          },
+          {
+            "name": "Bitter Kola (Ugoro, Aki ilu) 3oz - Pack of 2",
+            "price": "$12.99",
+            "production_rate": "77%"
+          },
+          {
+            "name": "African Fresh Kola Nut 8oz (0.5LB)",
+            "price": "$10.99",
+            "production_rate": "88%"
+          },
+          {
+            "name": "African Fresh Kola Nuts 16oz (1LB)",
+            "price": "$20.99",
+            "production_rate": "72%"
+          },
+          {
+            "name": "Caribbean Dream Kola Nut Tea, 24 Bags",
+            "price": "$3.99",
+            "production_rate": "93%"
+          }
+        ]
+      }
+    },
+    "Grocery": {
+      "subcategories": {
+        "Beverages": [
+          {
+            "name": "JKUB African Honey 16oz",
+            "price": "$16.99",
+            "production_rate": "85%"
+          },
+          {
+            "name": "Ketapa Kenyan Tea, 100 Counts",
+            "price": "$10.99",
+            "production_rate": "88%"
+          },
+          {
+            "name": "Peak Milk 500g Sachet",
+            "price": "$8.99",
+            "production_rate": "92%"
+          },
+          {
+            "name": "Nido Powder Milk 2500g",
+            "price": "$69.99",
+            "production_rate": "76%"
+          },
+          {
+            "name": "Horlicks Malt Mix 300g",
+            "price": "$7.99",
+            "production_rate": "89%"
+          },
+          {
+            "name": "Dormans Coffee Kenya 100G",
+            "price": "$10.99",
+            "production_rate": "87%"
+          },
+          {
+            "name": "Kericho Gold Pure Kenya Tea, 100G (String & Tag Tea Bags)",
+            "price": "$13.99",
+            "production_rate": "91%"
+          },
+          {
+            "name": "Nescafe Classic Coffee 100g",
+            "price": "$7.99",
+            "production_rate": "95%"
+          },
+          {
+            "name": "Splenda Zero Calorie Sweetener Packets 7oz, 200pack",
+            "price": "$8.99",
+            "production_rate": "93%"
+          },
+          {
+            "name": "Ovaltine Mix 300g",
+            "price": "$7.99",
+            "production_rate": "90%"
+          },
+          {
+            "name": "Milo Chocolate Mix 500g Sachet",
+            "price": "$8.99",
+            "production_rate": "94%"
+          },
+          {
+            "name": "Bournvita 500g Sachet",
+            "price": "$6.99",
+            "production_rate": "96%"
+          },
+          {
+            "name": "Fahari Ya Kenya Tea Kenya 500g",
+            "price": "$12.99",
+            "production_rate": "86%"
+          },
+          {
+            "name": "Nido Forticada Dry Milk Powder 360g",
+            "price": "$6.99",
+            "production_rate": "92%"
+          },
+          {
+            "name": "Starbucks Vanilla Frape 9.5oz (Pack of 6)",
+            "price": "$13.99",
+            "production_rate": "83%"
+          }
+        ],
+        "Condiments": [
+          {
+            "name": "May's Shito Sauce (Pepper Sauce) 16oz",
+            "price": "$16.99",
+            "production_rate": "88%"
+          },
+          {
+            "name": "Nature's Best Nchanwu Leaves (Scent Leaf/Effirin/Fever Leaf) 1oz",
+            "price": "$5.99",
+            "production_rate": "91%"
+          },
+          {
+            "name": "Tartina Chocolate Spread 425g",
+            "price": "$8.99",
+            "production_rate": "87%"
+          },
+          {
+            "name": "Adom Peanut Butter (African Groundnut Paste) 16oz",
+            "price": "$9.99",
+            "production_rate": "89%"
+          },
+          {
+            "name": "Nkulenu Abemu Dro 780g (Abemudro), Palm Soup Base",
+            "price": "$10.99",
+            "production_rate": "84%"
+          },
+          {
+            "name": "Nkulenu Palm Soup Base (Palm Cream/Banga Sauce) 780G",
+            "price": "$9.99",
+            "production_rate": "86%"
+          },
+          {
+            "name": "Nature's Best Dry Uziza Leaves 2oz",
+            "price": "$4.99",
+            "production_rate": "93%"
+          },
+          {
+            "name": "Nature's Best Dried Bitter Leaves, 1.5oz",
+            "price": "$4.99",
+            "production_rate": "92%"
+          },
+          {
+            "name": "Hunts Tomato Paste 6oz (Pack of 3)",
+            "price": "$5.99",
+            "production_rate": "95%"
+          },
+          {
+            "name": "Grace Hot Pepper Sauce 6oz",
+            "price": "$4.99",
+            "production_rate": "94%"
+          },
+          {
+            "name": "Grace Oxtail Marinade 11.8oz",
+            "price": "$7.99",
+            "production_rate": "90%"
+          },
+          {
+            "name": "Grace Oxtail Seasoning 5.3oz (Pack of 2)",
+            "price": "$7.99",
+            "production_rate": "89%"
+          },
+          {
+            "name": "Royal Montego Jam Butter Beans 14oz (2 Pack)",
+            "price": "$5.99",
+            "production_rate": "93%"
+          },
+          {
+            "name": "Trofai Palm Cream (Palmnut Soup/Banga Sauce) 800G",
+            "price": "$9.99",
+            "production_rate": "85%"
+          },
+          {
+            "name": "Nature's Best Shito Pepper Sauce 370G",
+            "price": "$7.99",
+            "production_rate": "91%"
+          }
+        ]
+      }
+    }
+  }
+}
