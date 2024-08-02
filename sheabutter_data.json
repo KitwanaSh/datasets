@@ -1,0 +1,67 @@
+{
+  "Shea Butter": [
+    {
+      "country": "NIGERIA",
+      "quantity_kg": 25,
+      "price_usd": 18,
+      "amount_imported_usd": null,
+      "quantity_imported_tons": null,
+      "amount_exported_usd": 3800000000,
+      "quantity_exported_tons": 50000
+    },
+    {
+      "country": "GHANA",
+      "quantity_kg": 25,
+      "price_usd": 44,
+      "amount_imported_usd": null,
+      "quantity_imported_tons": null,
+      "amount_exported_usd": 93600000000,
+      "quantity_exported_tons": 38792
+    },
+    {
+      "country": "KENYA",
+      "quantity_kg": 25,
+      "price_usd": 220,
+      "amount_imported_usd": 1600000,
+      "quantity_imported_tons": 444.45,
+      "amount_exported_usd": null,
+      "quantity_exported_tons": null
+    },
+    {
+      "country": "BOTSWANA",
+      "quantity_kg": 25,
+      "price_usd": 295,
+      "amount_imported_usd": 313440,
+      "quantity_imported_tons": 113.8,
+      "amount_exported_usd": null,
+      "quantity_exported_tons": null
+    },
+    {
+      "country": "SOUTH AFRICA",
+      "quantity_kg": 25,
+      "price_usd": 285,
+      "amount_imported_usd": 3630000,
+      "quantity_imported_tons": 3600,
+      "amount_exported_usd": null,
+      "quantity_exported_tons": null
+    },
+    {
+      "country": "UGANDA",
+      "quantity_kg": 25,
+      "price_usd": 268,
+      "amount_imported_usd": null,
+      "quantity_imported_tons": null,
+      "amount_exported_usd": 11000000,
+      "quantity_exported_tons": 156
+    },
+    {
+      "country": "COTE D'VOIRE",
+      "quantity_kg": 25,
+      "price_usd": 35,
+      "amount_imported_usd": null,
+      "quantity_imported_tons": null,
+      "amount_exported_usd": 558000000,
+      "quantity_exported_tons": 250000
+    }
+  ]
+}
